@@ -1,7 +1,6 @@
 .header {
     display: flex;
     background-color: #fff;
-    border-bottom: 10px solid #495e57;
     width: 100%;
     z-index: 3;
 }
